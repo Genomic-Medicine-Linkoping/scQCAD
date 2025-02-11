@@ -1,5 +1,8 @@
 # scQCAD
 
+[![Repository](https://img.shields.io/badge/repository-github-blue?color=#6495ED)](https://github.com/BioDebojyoti/scQCAD)
+[![Author](https://img.shields.io/badge/author-Debojyoti%20Das-purple?color=#9FE2BF)](https://github.com/BioDebojyoti/BioDebojyoti)
+
 This Seurat wrapper takes aggregated cellranger output, and performs:
 
 - Quality control,
