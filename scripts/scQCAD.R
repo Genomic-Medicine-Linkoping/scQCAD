@@ -21,7 +21,7 @@ libraries2use <- c(
   "hdf5r", "leidenAlg", "igraph", "patchwork", "ggplot2",
   "Seurat", "optparse", "dplyr", "remotes", "celldex", "SingleR",
   "writexl", "seuratter", "Seurat", "SeuratObject", "harmony",
-  "seuratHelper", "this.path", "future", "comprehenr", "DESeq2",
+  "SeuratHelper", "this.path", "future", "comprehenr", "DESeq2",
   "yaml"
 )
 
